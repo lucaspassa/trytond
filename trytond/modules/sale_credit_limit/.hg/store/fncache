@@ -1,0 +1,17 @@
+data/setup.py.i
+data/tests/test_sale_credit_limit.py.i
+data/COPYRIGHT.i
+data/doc/index.rst.i
+data/tests/__init__.py.i
+data/.hgtags.i
+data/INSTALL.i
+data/__init__.py.i
+data/tryton.cfg.i
+data/party.py.i
+data/tox.ini.i
+data/MANIFEST.in.i
+data/sale.py.i
+data/LICENSE.i
+data/README.i
+data/CHANGELOG.i
+data/.drone.yml.i
