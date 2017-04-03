@@ -1,9 +1,9 @@
 #!/bin/bash
-hg clone https://hg.tryton.org/modules/account
-hg clone https://hg.tryton.org/modules/account_asset
-hg clone https://hg.tryton.org/modules/account_be
-hg clone https://hg.tryton.org/modules/account_credit_limit
-hg clone https://hg.tryton.org/modules/account_deposit
+hg clone -b 4.2 https://hg.tryton.org/modules/account
+hg clone -b 4.2 https://hg.tryton.org/modules/account_asset
+hg clone -b 4.2 https://hg.tryton.org/modules/account_be
+hg clone -b 4.2 https://hg.tryton.org/modules/account_credit_limit
+hg clone -b 4.2 https://hg.tryton.org/modules/account_deposit
 hg clone https://hg.tryton.org/modules/account_de_skr03
 hg clone https://hg.tryton.org/modules/account_dunning
 hg clone https://hg.tryton.org/modules/account_dunning_fee
