@@ -1,5 +1,7 @@
 #Ejecutar como root
 
+apt-get install python-werkzeug python-lxml python-relatorio python-genshi python-dateutil python-polib python-psycopg2 python-pydot unoconv python-sphinx python-levenshtein python-bcrypt
+
 # instalar a mano por que se necesita la versión espesifica que tiene 
 # * ar.cuit: CUIT (Código Único de Identificación Tributaria, Argentinian tax number)
 # python-stdnum 1.5
@@ -14,7 +16,6 @@ cd python-sql
 python setup.py install
 
 pip install pytz
-pip install stdnum
 pip install simpleeval
 pip install cached_property
 pip install zeep
