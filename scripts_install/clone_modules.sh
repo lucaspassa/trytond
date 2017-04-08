@@ -4,110 +4,110 @@ hg clone -b 4.2 https://hg.tryton.org/modules/account_asset
 hg clone -b 4.2 https://hg.tryton.org/modules/account_be
 hg clone -b 4.2 https://hg.tryton.org/modules/account_credit_limit
 hg clone -b 4.2 https://hg.tryton.org/modules/account_deposit
-hg clone https://hg.tryton.org/modules/account_de_skr03
-hg clone https://hg.tryton.org/modules/account_dunning
-hg clone https://hg.tryton.org/modules/account_dunning_fee
-hg clone https://hg.tryton.org/modules/account_dunning_letter
-hg clone https://hg.tryton.org/modules/account_fr
-hg clone https://hg.tryton.org/modules/account_invoice
-hg clone https://hg.tryton.org/modules/account_invoice_correction
-hg clone https://hg.tryton.org/modules/account_invoice_history
-hg clone https://hg.tryton.org/modules/account_invoice_line_standalone
-hg clone https://hg.tryton.org/modules/account_invoice_stock
-hg clone https://hg.tryton.org/modules/account_payment
-hg clone https://hg.tryton.org/modules/account_payment_clearing
-hg clone https://hg.tryton.org/modules/account_payment_sepa
-hg clone https://hg.tryton.org/modules/account_payment_sepa_cfonb
-hg clone https://hg.tryton.org/modules/account_product
-hg clone https://hg.tryton.org/modules/account_statement
-hg clone https://hg.tryton.org/modules/account_stock_anglo_saxon
-hg clone https://hg.tryton.org/modules/account_stock_continental
-hg clone https://hg.tryton.org/modules/account_stock_landed_cost
-hg clone https://hg.tryton.org/modules/account_stock_landed_cost_weight
-hg clone https://hg.tryton.org/modules/account_tax_rule_country
-hg clone https://hg.tryton.org/modules/analytic_account
-hg clone https://hg.tryton.org/modules/analytic_invoice
-hg clone https://hg.tryton.org/modules/analytic_purchase
-hg clone https://hg.tryton.org/modules/analytic_sale
-hg clone https://hg.tryton.org/modules/authentication_sms
-hg clone https://hg.tryton.org/modules/bank
-hg clone https://hg.tryton.org/modules/calendar
-hg clone https://hg.tryton.org/modules/calendar_classification
-hg clone https://hg.tryton.org/modules/calendar_scheduling
-hg clone https://hg.tryton.org/modules/calendar_todo
-hg clone https://hg.tryton.org/modules/carrier
-hg clone https://hg.tryton.org/modules/carrier_percentage
-hg clone https://hg.tryton.org/modules/carrier_weight
-hg clone https://hg.tryton.org/modules/commission
-hg clone https://hg.tryton.org/modules/commission_waiting
-hg clone https://hg.tryton.org/modules/company
-hg clone https://hg.tryton.org/modules/company_work_time
-hg clone https://hg.tryton.org/modules/country
-hg clone https://hg.tryton.org/modules/currency
-hg clone https://hg.tryton.org/modules/customs
-hg clone https://hg.tryton.org/modules/dashboard
-hg clone https://hg.tryton.org/modules/google_maps
-hg clone https://hg.tryton.org/modules/ldap_authentication
-hg clone https://hg.tryton.org/modules/party
-hg clone https://hg.tryton.org/modules/party_relationship
-hg clone https://hg.tryton.org/modules/party_siret
-hg clone https://hg.tryton.org/modules/party_vcarddav
-hg clone https://hg.tryton.org/modules/product
-hg clone https://hg.tryton.org/modules/product_attribute
-hg clone https://hg.tryton.org/modules/product_classification
-hg clone https://hg.tryton.org/modules/product_classification_taxonomic
-hg clone https://hg.tryton.org/modules/product_cost_fifo
-hg clone https://hg.tryton.org/modules/product_cost_history
-hg clone https://hg.tryton.org/modules/production
-hg clone https://hg.tryton.org/modules/production_routing
-hg clone https://hg.tryton.org/modules/production_split
-hg clone https://hg.tryton.org/modules/production_work
-hg clone https://hg.tryton.org/modules/production_work_timesheet
-hg clone https://hg.tryton.org/modules/product_measurements
-hg clone https://hg.tryton.org/modules/product_price_list
-hg clone https://hg.tryton.org/modules/project
-hg clone https://hg.tryton.org/modules/project_invoice
-hg clone https://hg.tryton.org/modules/project_plan
-hg clone https://hg.tryton.org/modules/project_revenue
-hg clone https://hg.tryton.org/modules/purchase
-hg clone https://hg.tryton.org/modules/purchase_invoice_line_standalone
-hg clone https://hg.tryton.org/modules/purchase_request
-hg clone https://hg.tryton.org/modules/purchase_requisition
-hg clone https://hg.tryton.org/modules/purchase_shipment_cost
-hg clone https://hg.tryton.org/modules/sale
-hg clone https://hg.tryton.org/modules/sale_complaint
-hg clone https://hg.tryton.org/modules/sale_credit_limit
-hg clone https://hg.tryton.org/modules/sale_extra
-hg clone https://hg.tryton.org/modules/sale_invoice_grouping
-hg clone https://hg.tryton.org/modules/sale_opportunity
-hg clone https://hg.tryton.org/modules/sale_price_list
-hg clone https://hg.tryton.org/modules/sale_promotion
-hg clone https://hg.tryton.org/modules/sale_shipment_cost
-hg clone https://hg.tryton.org/modules/sale_shipment_grouping
-hg clone https://hg.tryton.org/modules/sale_stock_quantity
-hg clone https://hg.tryton.org/modules/sale_supply
-hg clone https://hg.tryton.org/modules/sale_supply_drop_shipment
-hg clone https://hg.tryton.org/modules/stock
-hg clone https://hg.tryton.org/modules/stock_forecast
-hg clone https://hg.tryton.org/modules/stock_inventory_location
-hg clone https://hg.tryton.org/modules/stock_location_sequence
-hg clone https://hg.tryton.org/modules/stock_lot
-hg clone https://hg.tryton.org/modules/stock_lot_sled
-hg clone https://hg.tryton.org/modules/stock_package
-hg clone https://hg.tryton.org/modules/stock_package_shipping
-hg clone https://hg.tryton.org/modules/stock_package_shipping_dpd
-hg clone https://hg.tryton.org/modules/stock_package_shipping_ups
-hg clone https://hg.tryton.org/modules/stock_product_location
-hg clone https://hg.tryton.org/modules/stock_shipment_measurements
-hg clone https://hg.tryton.org/modules/stock_split
-hg clone https://hg.tryton.org/modules/stock_supply
-hg clone https://hg.tryton.org/modules/stock_supply_day
-hg clone https://hg.tryton.org/modules/stock_supply_forecast
-hg clone https://hg.tryton.org/modules/stock_supply_production
-hg clone https://hg.tryton.org/modules/timesheet
-hg clone https://hg.tryton.org/modules/timesheet_cost
-hg clone https://hg.tryton.org/modules/webdav
-hg clone https://hg.tryton.org/modules/web_user
+hg clone -b 4.2 https://hg.tryton.org/modules/account_de_skr03
+hg clone -b 4.2 https://hg.tryton.org/modules/account_dunning
+hg clone -b 4.2 https://hg.tryton.org/modules/account_dunning_fee
+hg clone -b 4.2 https://hg.tryton.org/modules/account_dunning_letter
+hg clone -b 4.2 https://hg.tryton.org/modules/account_fr
+hg clone -b 4.2 https://hg.tryton.org/modules/account_invoice
+hg clone -b 4.2 https://hg.tryton.org/modules/account_invoice_correction
+hg clone -b 4.2 https://hg.tryton.org/modules/account_invoice_history
+hg clone -b 4.2 https://hg.tryton.org/modules/account_invoice_line_standalone
+hg clone -b 4.2 https://hg.tryton.org/modules/account_invoice_stock
+hg clone -b 4.2 https://hg.tryton.org/modules/account_payment
+hg clone -b 4.2 https://hg.tryton.org/modules/account_payment_clearing
+hg clone -b 4.2 https://hg.tryton.org/modules/account_payment_sepa
+hg clone -b 4.2 https://hg.tryton.org/modules/account_payment_sepa_cfonb
+hg clone -b 4.2 https://hg.tryton.org/modules/account_product
+hg clone -b 4.2 https://hg.tryton.org/modules/account_statement
+hg clone -b 4.2 https://hg.tryton.org/modules/account_stock_anglo_saxon
+hg clone -b 4.2 https://hg.tryton.org/modules/account_stock_continental
+hg clone -b 4.2 https://hg.tryton.org/modules/account_stock_landed_cost
+hg clone -b 4.2 https://hg.tryton.org/modules/account_stock_landed_cost_weight
+hg clone -b 4.2 https://hg.tryton.org/modules/account_tax_rule_country
+hg clone -b 4.2 https://hg.tryton.org/modules/analytic_account
+hg clone -b 4.2 https://hg.tryton.org/modules/analytic_invoice
+hg clone -b 4.2 https://hg.tryton.org/modules/analytic_purchase
+hg clone -b 4.2 https://hg.tryton.org/modules/analytic_sale
+hg clone -b 4.2 https://hg.tryton.org/modules/authentication_sms
+hg clone -b 4.2 https://hg.tryton.org/modules/bank
+hg clone -b 4.2 https://hg.tryton.org/modules/calendar
+hg clone -b 4.2 https://hg.tryton.org/modules/calendar_classification
+hg clone -b 4.2 https://hg.tryton.org/modules/calendar_scheduling
+hg clone -b 4.2 https://hg.tryton.org/modules/calendar_todo
+hg clone -b 4.2 https://hg.tryton.org/modules/carrier
+hg clone -b 4.2 https://hg.tryton.org/modules/carrier_percentage
+hg clone -b 4.2 https://hg.tryton.org/modules/carrier_weight
+hg clone -b 4.2 https://hg.tryton.org/modules/commission
+hg clone -b 4.2 https://hg.tryton.org/modules/commission_waiting
+hg clone -b 4.2 https://hg.tryton.org/modules/company
+hg clone -b 4.2 https://hg.tryton.org/modules/company_work_time
+hg clone -b 4.2 https://hg.tryton.org/modules/country
+hg clone -b 4.2 https://hg.tryton.org/modules/currency
+hg clone -b 4.2 https://hg.tryton.org/modules/customs
+hg clone -b 4.2 https://hg.tryton.org/modules/dashboard
+hg clone -b 4.2 https://hg.tryton.org/modules/google_maps
+hg clone -b 4.2 https://hg.tryton.org/modules/ldap_authentication
+hg clone -b 4.2 https://hg.tryton.org/modules/party
+hg clone -b 4.2 https://hg.tryton.org/modules/party_relationship
+hg clone -b 4.2 https://hg.tryton.org/modules/party_siret
+hg clone -b 4.2 https://hg.tryton.org/modules/party_vcarddav
+hg clone -b 4.2 https://hg.tryton.org/modules/product
+hg clone -b 4.2 https://hg.tryton.org/modules/product_attribute
+hg clone -b 4.2 https://hg.tryton.org/modules/product_classification
+hg clone -b 4.2 https://hg.tryton.org/modules/product_classification_taxonomic
+hg clone -b 4.2 https://hg.tryton.org/modules/product_cost_fifo
+hg clone -b 4.2 https://hg.tryton.org/modules/product_cost_history
+hg clone -b 4.2 https://hg.tryton.org/modules/production
+hg clone -b 4.2 https://hg.tryton.org/modules/production_routing
+hg clone -b 4.2 https://hg.tryton.org/modules/production_split
+hg clone -b 4.2 https://hg.tryton.org/modules/production_work
+hg clone -b 4.2 https://hg.tryton.org/modules/production_work_timesheet
+hg clone -b 4.2 https://hg.tryton.org/modules/product_measurements
+hg clone -b 4.2 https://hg.tryton.org/modules/product_price_list
+hg clone -b 4.2 https://hg.tryton.org/modules/project
+hg clone -b 4.2 https://hg.tryton.org/modules/project_invoice
+hg clone -b 4.2 https://hg.tryton.org/modules/project_plan
+hg clone -b 4.2 https://hg.tryton.org/modules/project_revenue
+hg clone -b 4.2 https://hg.tryton.org/modules/purchase
+hg clone -b 4.2 https://hg.tryton.org/modules/purchase_invoice_line_standalone
+hg clone -b 4.2 https://hg.tryton.org/modules/purchase_request
+hg clone -b 4.2 https://hg.tryton.org/modules/purchase_requisition
+hg clone -b 4.2 https://hg.tryton.org/modules/purchase_shipment_cost
+hg clone -b 4.2 https://hg.tryton.org/modules/sale
+hg clone -b 4.2 https://hg.tryton.org/modules/sale_complaint
+hg clone -b 4.2 https://hg.tryton.org/modules/sale_credit_limit
+hg clone -b 4.2 https://hg.tryton.org/modules/sale_extra
+hg clone -b 4.2 https://hg.tryton.org/modules/sale_invoice_grouping
+hg clone -b 4.2 https://hg.tryton.org/modules/sale_opportunity
+hg clone -b 4.2 https://hg.tryton.org/modules/sale_price_list
+hg clone -b 4.2 https://hg.tryton.org/modules/sale_promotion
+hg clone -b 4.2 https://hg.tryton.org/modules/sale_shipment_cost
+hg clone -b 4.2 https://hg.tryton.org/modules/sale_shipment_grouping
+hg clone -b 4.2 https://hg.tryton.org/modules/sale_stock_quantity
+hg clone -b 4.2 https://hg.tryton.org/modules/sale_supply
+hg clone -b 4.2 https://hg.tryton.org/modules/sale_supply_drop_shipment
+hg clone -b 4.2 https://hg.tryton.org/modules/stock
+hg clone -b 4.2 https://hg.tryton.org/modules/stock_forecast
+hg clone -b 4.2 https://hg.tryton.org/modules/stock_inventory_location
+hg clone -b 4.2 https://hg.tryton.org/modules/stock_location_sequence
+hg clone -b 4.2 https://hg.tryton.org/modules/stock_lot
+hg clone -b 4.2 https://hg.tryton.org/modules/stock_lot_sled
+hg clone -b 4.2 https://hg.tryton.org/modules/stock_package
+hg clone -b 4.2 https://hg.tryton.org/modules/stock_package_shipping
+hg clone -b 4.2 https://hg.tryton.org/modules/stock_package_shipping_dpd
+hg clone -b 4.2 https://hg.tryton.org/modules/stock_package_shipping_ups
+hg clone -b 4.2 https://hg.tryton.org/modules/stock_product_location
+hg clone -b 4.2 https://hg.tryton.org/modules/stock_shipment_measurements
+hg clone -b 4.2 https://hg.tryton.org/modules/stock_split
+hg clone -b 4.2 https://hg.tryton.org/modules/stock_supply
+hg clone -b 4.2 https://hg.tryton.org/modules/stock_supply_day
+hg clone -b 4.2 https://hg.tryton.org/modules/stock_supply_forecast
+hg clone -b 4.2 https://hg.tryton.org/modules/stock_supply_production
+hg clone -b 4.2 https://hg.tryton.org/modules/timesheet
+hg clone -b 4.2 https://hg.tryton.org/modules/timesheet_cost
+hg clone -b 4.2 https://hg.tryton.org/modules/webdav
+hg clone -b 4.2 https://hg.tryton.org/modules/web_user
 git clone http://github.com/tryton-ar/account_ar
 git clone http://github.com/gcoop-libre/account_coop_ar
 git clone http://github.com/tryton-ar/account_invoice_ar
