@@ -1,0 +1,1 @@
+hg clone -b 4.2 https://hg.tryton.org/trytond

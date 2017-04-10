@@ -4,4 +4,4 @@
 
 #setear base de datos
 
-./trytond/bin/trytond-admin -c trytond/etc/trytond.conf -d tryton_ar --all -l es
+./trytond/bin/trytond-admin -c trytond/etc/trytond.conf -d <nombre_base> --all -l es --verbose

@@ -108,12 +108,3 @@ hg clone -b 4.2 https://hg.tryton.org/modules/timesheet
 hg clone -b 4.2 https://hg.tryton.org/modules/timesheet_cost
 hg clone -b 4.2 https://hg.tryton.org/modules/webdav
 hg clone -b 4.2 https://hg.tryton.org/modules/web_user
-git clone http://github.com/tryton-ar/account_ar
-git clone http://github.com/gcoop-libre/account_coop_ar
-git clone http://github.com/tryton-ar/account_invoice_ar
-git clone http://github.com/tryton-ar/account_check_ar
-git clone http://github.com/tryton-ar/account_voucher_ar
-git clone http://github.com/tryton-ar/account_retencion_ar
-git clone http://github.com/tryton-ar/bank_ar
-git clone http://github.com/tryton-ar/party_ar
-git clone https://github.com/gcoop-libre/cooperative_ar
